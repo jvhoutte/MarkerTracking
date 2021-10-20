@@ -10,7 +10,7 @@ GUI to register a surface model to optically tracked markers and compute the joi
 * Qt: 5
 * CMake: >2.8
 
-#### The cmake way 
+## The cmake way 
     
 The commands to build the project would be:
 ``` 
@@ -20,7 +20,7 @@ The commands to build the project would be:
     make
 ```
 
-#### Step-by-step instructions
+## Step-by-step instructions
 
 * Load Femur/Tibia: load the digital surface models of the bones (.stl).
 * The surface models are displayed in the window. Start annotating the same landmarks as were annotated on the real bones by the digital annotator. Annotate a landmark by hoovering over the rendered model and pressing "s" on the keyboard when the cursor is above the required position. To remove the last landmark press "d". Save the annotated landmarks by pressing "Save landmarks".
@@ -36,7 +36,7 @@ at zero and ten millimeters.
 * Show ROI only: Alter between the full bone model visualisation and the region of
 interest visualisation.
 
-#### Contact 
+## Contact 
 
 For any question, please contact:
 Jeroen Van Houtte (jeroen.vanhoutte@uantwerpen.be)
